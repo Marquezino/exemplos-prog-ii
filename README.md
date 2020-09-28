@@ -1,2 +1,3 @@
-# exemplos-prog-ii
-Códigos de exemplo para a disciplina de Programação de Computadores II
+# Exemplos em Programação II
+
+Neste repositório vou reunir códigos de exemplo que venho utilizando nas aulas remotas da disciplina de Programação de Computadores II.
